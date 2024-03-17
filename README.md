@@ -4,9 +4,5 @@ I'am a passionate full-stack developer with a zeal for crafting elegant solution
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,wasm,arduino,autocad,linux,nextjs,raspberrypi,react,sketchup,tailwind,tensorflow,vite,py,dotnet)](https://skillicons.dev)
 
-![jaime64net's Stats](https://github-readme-stats.vercel.app/api?username=jaime64net&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![jaime64net's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaime64net&theme=vue-dark&hide_border=true)
-
 ![jaime64net's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaime64net&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
